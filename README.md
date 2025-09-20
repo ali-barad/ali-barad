@@ -3,13 +3,17 @@
 [![Website](https://img.shields.io/website?label=alibarad.com&style=for-the-badge&url=http://alibarad.software/)](http://alibarad.software/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alibarad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/alibarad14)
 
-## Flutter Developer | Python Enthusiast | Kali Linux Tools Builder
+## Flutter Developer  | Kali Linux Tools Builder
 
 🔭 Soon I will be launching educational courses in Flutter, Python, and Cybersecurity
-	•	🌱 I’m currently learning more about penetration testing and software engineering best practices
-	•	👯 I’m looking to collaborate with other open-source developers and tech content creators
-	•	🥅 2025 Goals: Contribute more to open-source projects and build new tools for the infosec community
-	•	⚡ Fun fact: I love exploring different Linux distros and developing tools for Kali Linux
+
+ •	🌱 I’m currently learning more about penetration testing and software engineering best practices
+
+ •	👯 I’m looking to collaborate with other open-source developers and tech content creators
+
+ •	🥅 2025 Goals: Contribute more to open-source projects and build new tools for the infosec community
+
+ •	⚡ Fun fact: I love exploring different Linux distros and developing tools for Kali Linux
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
